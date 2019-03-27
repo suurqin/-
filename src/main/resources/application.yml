@@ -16,7 +16,7 @@ spring:
   profiles: dev
 
   datasource:
-    url: jdbc:mysql://localhost:3306/app
+    url: jdbc:mysql://localhost:3306/db_admin
     username: root
     password: root
     driver-class-name: com.mysql.jdbc.Driver

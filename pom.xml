@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.xfwb</groupId>
-    <artifactId>app</artifactId>
+    <artifactId>admin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>app</name>
+    <name>admin</name>
     <description>基本整合</description>
 
     <properties>
