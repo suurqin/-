@@ -44,5 +44,12 @@
         <!-- 要生成的表 tableName是数据库中的表名或视图名 domainObjectName是实体类名 -->
         <table tableName="t_employee" domainObjectName="Employee"></table>
         <table tableName="t_role" domainObjectName="Role"></table>
+        <table tableName="t_head_menu" domainObjectName="HeadMenu"></table>
+        <table tableName="t_left_menu" domainObjectName="LeftMenu"></table>
+        <table tableName="t_operation" domainObjectName="Operation"></table>
+        <table tableName="t_role_head" domainObjectName="RoleHead"></table>
+        <table tableName="t_role_left" domainObjectName="RoleLeft"></table>
+        <table tableName="t_role_operation" domainObjectName="RoleOperation"></table>
+
     </context>
 </generatorConfiguration>
